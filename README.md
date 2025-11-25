@@ -1,3 +1,5 @@
+#DEMO VIDEO :https://drive.google.com/file/d/13MsIuDfwHPmhhqufullCXbp-MoQgg86b/view
+
 # Django Signals & Rectangle Class Demo
 
 This Django project demonstrates the default behavior of Django signals regarding execution mode (sync/async), threading, and database transactions. It also includes a custom `Rectangle` class implementation that supports iteration.
